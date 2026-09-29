@@ -12,7 +12,7 @@ pyautogui.press("enter")
 
 time.sleep(3)
 
-pyautogui.click(x=799, y=406)
+pyautogui.press("tab")
 pyautogui.write("emailexemplo@gmail.com")
 pyautogui.press("tab") 
 pyautogui.write("senha_aleatoria")
