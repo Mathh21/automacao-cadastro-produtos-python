@@ -42,6 +42,6 @@ O programa:
 
 As coordenadas utilizadas pelo PyAutoGUI podem precisar ser alteradas dependendo da resolução da tela e da posição dos elementos no navegador.
 
-## 🎥 Demonstração
+## 📌 Sobre o projeto
 
-Uma demonstração da automação em funcionamento será adicionada ao projeto.
+Este projeto demonstra a automação de um processo repetitivo de cadastro de produtos utilizando Python, Pandas e PyAutoGUI.
